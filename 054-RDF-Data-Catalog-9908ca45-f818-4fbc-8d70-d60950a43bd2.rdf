@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:adms="http://www.w3.org/ns/adms#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#">
+  <dcat:Distribution rdf:about="http://data.europa.eu/88u/distribution/9908ca45-f818-4fbc-8d70-d60950a43bd2">
+    <dct:title xml:lang="en">Country SKOS CORE distribution</dct:title>
+    <dct:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/DOWNLOADABLE_FILE"/>
+    <dct:format>
+      <dct:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/RDF_XML"/>
+    </dct:format>
+    <dct:identifier>http://data.europa.eu/88u/distribution/29f6b495-81b2-4aa6-a139-346810955c2f</dct:identifier>
+    <dcat:downloadURL rdf:resource="https://op.europa.eu/o/opportal-service/euvoc-download-handler?cellarURI=http://publications.europa.eu/resource/distribution/country/20220615-0/rdf/skos_core/countries-skos.rdf&amp;fileName=countries-skos.rdf"/>
+    <dcat:mediaType>
+      <dct:MediaType rdf:about="http://www.iana.org/assignments/media-types/application/rdf+xml"/>
+    </dcat:mediaType>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date"
+    >2022-06-15</dct:issued>
+    <dct:description xml:lang="en">Country SKOS CORE distribution</dct:description>
+    <dct:license>
+      <dct:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/COM_REUSE"/>
+    </dct:license>
+    <dcat:accessURL rdf:resource="https://op.europa.eu/o/opportal-service/euvoc-download-handler?cellarURI=http://publications.europa.eu/resource/distribution/country/20220615-0/rdf/skos_core/countries-skos.rdf&amp;fileName=countries-skos.rdf"/>
+    <dct:rights>
+      <dct:RightsStatement rdf:about="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+    </dct:rights>
+    <adms:status>
+      <skos:Concept rdf:about="http://purl.org/adms/status/Completed"/>
+    </adms:status>
+  </dcat:Distribution>
+</rdf:RDF>
