@@ -1,16 +1,16 @@
-<001-20191003_Phase_3_Manual_ผู้ประกอบการ.pdf>
-<002-BEE-Pre-Concept-Note---Feb-8-2022.pdf>
-<003-DB-Investigation-Findings-and-Report-to-the-Board-of-Executive-Directors-September-15-2021.pdf>
-<004-Frontis-Deliverable 4.2 Roadmap Full V02 00 00(1).pdf>
-<005-PH_PRD_แนวปฏิบัติกระบวนการทางดิจิทัลภาครัฐ-V.0.14.pdf>
-<006-Roadmap+Standard+DGA.pdf>
-<007-TGIX_Standard_Architecture.pdf>
-<008-1-DGA_TGIX_Live.pdf>
-<008-2-TGIX_Standard_Architecture.pdf>
-<008-8-กำหนดการจัดงานประชาพิจารณ์_TGIX Linkage v 0.6.pdf>
-<009-3-TGIX_Standard_Reg_AAA.pdf>
-<009-EU-ISA-3-abecasis.pdf>
-<010-4-TGIX_Standard_Reg_Logging.pdf>
+(001-20191003_Phase_3_Manual_ผู้ประกอบการ.pdf)
+(002-BEE-Pre-Concept-Note---Feb-8-2022.pdf)
+(003-DB-Investigation-Findings-and-Report-to-the-Board-of-Executive-Directors-September-15-2021.pdf)
+(004-Frontis-Deliverable 4.2 Roadmap Full V02 00 00(1).pdf)
+(005-PH_PRD_แนวปฏิบัติกระบวนการทางดิจิทัลภาครัฐ-V.0.14.pdf)
+(006-Roadmap+Standard+DGA.pdf)
+(007-TGIX_Standard_Architecture.pdf)
+(008-1-DGA_TGIX_Live.pdf)
+(008-2-TGIX_Standard_Architecture.pdf)
+(008-8-กำหนดการจัดงานประชาพิจารณ์_TGIX Linkage v 0.6.pdf)
+(009-3-TGIX_Standard_Reg_AAA.pdf)
+(009-EU-ISA-3-abecasis.pdf)
+(010-4-TGIX_Standard_Reg_Logging.pdf)
 011-5-TGIX_Standard_Reg_Namespace.pdf
 012-6-TGIX_Standard_Reg_Protocol.pdf
 013-7-TGIX_Standard_Reg_Security.pdf
