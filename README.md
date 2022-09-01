@@ -1,7 +1,7 @@
 # FILE
-- [FILE1](001-20191003_Phase_3_Manual_ผู้ประกอบการ.pdf)
-- [FILE2](002-BEE-Pre-Concept-Note---Feb-8-2022.pdf)
-- [FILE3](003-DB-Investigation-Findings-and-Report-to-the-Board-of-Executive-Directors-September-15-2021.pdf)
+- [FILE1](doc/001-20191003_Phase_3_Manual_ผู้ประกอบการ.pdf)
+- [FILE2](doc/002-BEE-Pre-Concept-Note---Feb-8-2022.pdf)
+- [FILE3](doc/003-DB-Investigation-Findings-and-Report-to-the-Board-of-Executive-Directors-September-15-2021.pdf)
 (004-Frontis-Deliverable 4.2 Roadmap Full V02 00 00(1).pdf)
 (005-PH_PRD_แนวปฏิบัติกระบวนการทางดิจิทัลภาครัฐ-V.0.14.pdf)
 (006-Roadmap+Standard+DGA.pdf)
